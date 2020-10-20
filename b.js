@@ -1,4 +1,4 @@
 function a() {
-    alert("你好 javascript");
+    alert("你好 js");
 }
 a()
